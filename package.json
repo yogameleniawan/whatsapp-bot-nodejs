@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.21.0"
+  },
+  "name": "whatsapp-bot-nodejs",
+  "version": "1.0.0",
+  "description": "Whatsapp Bot with NodeJS",
+  "author": "Yoga Meleniawan Pamungkas",
+  "license": "MIT"
+}
